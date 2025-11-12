@@ -3,7 +3,7 @@
 # c="Jayaram Dhungana"
 # d=False
 # e=True
-# f=None
+# f=None  #python ma chai None bhanni pani yeuta data type ho jasma chai kei pani hudaina re, Wah Gajjab
 
 # print("The value of a is :",a,"and type of a is ",type(a))
 
